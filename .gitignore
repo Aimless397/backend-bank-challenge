@@ -1,0 +1,7 @@
+dist
+node_modules
+migrations
+.env
+.env.test
+
+yarn-error.log
