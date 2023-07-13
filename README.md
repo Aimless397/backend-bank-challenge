@@ -1,5 +1,19 @@
 # Backend Bank Challenge
 
+## Built With
+
+This project was built using these main technologies
+
+* [Express.js](https://expressjs.com//)
+* [Jest.js](https://jestjs.io/)
+* [Supertest](https://www.npmjs.com/package/supertest)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Postgres](https://www.postgresql.org/)
+* [Sequelize](https://sequelize.org/)
+* [Docker](https://www.docker.com/)
+* [JWT](https://jwt.io/)
+
+
 ## Setup
 
 #### 1. Clone this repository
